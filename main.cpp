@@ -2,7 +2,6 @@
 
 int main(){
     srand(time(NULL));
-    int dado;
 
     celda tablero[10][10];
     read_board(tablero, 10);
