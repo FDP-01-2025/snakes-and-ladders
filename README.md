@@ -23,15 +23,15 @@ The game is not only fun but also teaches basic counting skills and introduces t
 
 3. **Winning the Game**:
    - The first player to reach the final square (usually 100) wins.
-   - A player must roll the exact number needed to land on the final square. If the roll is too high, the token does not move.
+   - (Optional) A player must roll the exact number needed to land on the final square. If the roll is too high, the token does not move.
 
-4. **Special Rules (Optional)**:
-   - Rolling a 6 may grant an extra turn.
+4. **Special Rules**:
+   - Rolling a 6 grants an extra turn.
    - Some versions include penalties or bonuses on specific squares.
 
 ---
 
-This repository includes a version of the game with the following restrictions:
+This repository includes a terminal-only version of the game with the following restrictions:
 - **One Player** only. The objective is to see how long can it take for the player to reach the goal.
 - The *"go again"* rule after rolling a 6 on the die is not considered.
 
